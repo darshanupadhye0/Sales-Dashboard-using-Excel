@@ -1,17 +1,17 @@
-<h1>📊 Sales Performance Dashboard — Excel Analytics Project
+<h1>📊 Sales Performance Dashboard — Excel Analytics Project</h1>
 
-Overview
+<h2>Overview</h2>
 This project presents an end-to-end data analytics workflow built entirely in Microsoft Excel — from raw data cleaning to an interactive, dynamic dashboard. The dashboard was designed to give business stakeholders a quick yet comprehensive view of sales performance, helping drive data-backed decisions.
 
-Project Description
+<h2>Project Description</h2>
 Understanding sales data is crucial for identifying growth opportunities, tracking performance, and allocating resources effectively. This project walks through the full analytics pipeline: cleaning messy raw data, transforming it for analysis, computing key metrics, and presenting everything through a polished, interactive Excel dashboard.
 The dashboard surfaces important KPIs including revenue trends, regional breakdowns, customer-level profitability, and monthly sales patterns — all in one place.
 
-Dataset
+<h2>Dataset</h2>
 The dataset contains transactional sales records with the following fields:
 ColumnDescriptionOrder DateDate the order was placedCustomer NameName of the customerStateLocation of the saleCategoryHigh-level product categorySub-CategoryDetailed product typeProduct NameName of the individual productSalesRevenue from the transactionQuantityNumber of units soldProfitProfit earned from the transaction
 
-Dashboard Components
+<h2>Dashboard Components</h2>
 1. Sales by Category — Funnel Chart
 Visualizes how sales volume is distributed across product categories, ordered from highest to lowest. Useful for quickly identifying which categories are pulling the most weight and which are underperforming.
 2. Profit Over Time — Line Chart
@@ -25,7 +25,7 @@ Spotlights the five customers who contributed the most profit. Knowing who your 
 6. Monthly Sales Trends — Area Chart
 Shows how sales fluctuated month by month, with the filled area making it easy to perceive volume changes. Great for spotting seasonal peaks, slow periods, and planning campaigns accordingly.
 
-Tools & Technologies
+<h2>Tools & Technologies</h2>
 
 Microsoft Excel — data cleaning, transformation, pivot analysis, and dashboard visualizations
 
@@ -46,4 +46,4 @@ Building and formatting pivot tables
 Designing multi-chart dashboards with interactivity
 Translating raw transactional data into actionable business insights
 
-contact:upadhyedarshan394@gmail.com or ups5213@gmail.com
+contact : upadhyedarshan394@gmail.com or ups5213@gmail.com
