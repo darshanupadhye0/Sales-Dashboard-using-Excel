@@ -13,18 +13,17 @@ ColumnDescriptionOrder DateDate the order was placedCustomer NameName of the cus
 
 <h2>Dashboard Components</h2>
 1. Sales by Category — Funnel Chart
-Visualizes how sales volume is distributed across product categories, ordered from highest to lowest. Useful for quickly identifying which categories are pulling the most weight and which are underperforming.
-
+Visualizes how sales volume is distributed across product categories, ordered from highest to lowest. Useful for quickly identifying which categories are pulling the most weight and which are underperforming.<br><br>
 2. Profit Over Time — Line Chart
-Tracks yearly profit trends to reveal long-term growth or decline patterns. Enables strategic reflection on what drove performance changes across different periods.
+Tracks yearly profit trends to reveal long-term growth or decline patterns. Enables strategic reflection on what drove performance changes across different periods..<br><br>
 3. Sales by State — Map Chart
-A geographic view of sales performance across U.S. states. Highlights regional strengths and flags areas where market penetration may be lacking.
+A geographic view of sales performance across U.S. states. Highlights regional strengths and flags areas where market penetration may be lacking..<br><br>
 4. Customer Count — Bar Chart
-Displays the volume of customers served, broken down by a relevant dimension (category, region, or time). Supports customer segmentation and targeting analysis.
+Displays the volume of customers served, broken down by a relevant dimension (category, region, or time). Supports customer segmentation and targeting analysis..<br><br>
 5. Top 5 Customers by Profit — Pie Chart
-Spotlights the five customers who contributed the most profit. Knowing who your most valuable customers are is essential for relationship management and retention strategy.
+Spotlights the five customers who contributed the most profit. Knowing who your most valuable customers are is essential for relationship management and retention strategy..<br><br>
 6. Monthly Sales Trends — Area Chart
-Shows how sales fluctuated month by month, with the filled area making it easy to perceive volume changes. Great for spotting seasonal peaks, slow periods, and planning campaigns accordingly.
+Shows how sales fluctuated month by month, with the filled area making it easy to perceive volume changes. Great for spotting seasonal peaks, slow periods, and planning campaigns accordingly..<br><br>
 
 <h2>Tools & Technologies</h2>
 
