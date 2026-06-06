@@ -14,6 +14,7 @@ ColumnDescriptionOrder DateDate the order was placedCustomer NameName of the cus
 <h2>Dashboard Components</h2>
 1. Sales by Category — Funnel Chart
 Visualizes how sales volume is distributed across product categories, ordered from highest to lowest. Useful for quickly identifying which categories are pulling the most weight and which are underperforming.
+
 2. Profit Over Time — Line Chart
 Tracks yearly profit trends to reveal long-term growth or decline patterns. Enables strategic reflection on what drove performance changes across different periods.
 3. Sales by State — Map Chart
