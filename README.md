@@ -1,74 +1,48 @@
-# Sales Dashboard Project
+📊 Sales Performance Dashboard — Excel Analytics Project
+Overview
+This project presents an end-to-end data analytics workflow built entirely in Microsoft Excel — from raw data cleaning to an interactive, dynamic dashboard. The dashboard was designed to give business stakeholders a quick yet comprehensive view of sales performance, helping drive data-backed decisions.
 
-## Overview
+Project Description
+Understanding sales data is crucial for identifying growth opportunities, tracking performance, and allocating resources effectively. This project walks through the full analytics pipeline: cleaning messy raw data, transforming it for analysis, computing key metrics, and presenting everything through a polished, interactive Excel dashboard.
+The dashboard surfaces important KPIs including revenue trends, regional breakdowns, customer-level profitability, and monthly sales patterns — all in one place.
 
-Welcome to my "Sales Dashboard Project"! This data analytics project focuses on cleaning, pre-processing, analyzing, and visualizing sales data using MS Excel. The primary goal is to create a dynamic sales dashboard that provides valuable insights into sales performance, helping businesses understand trends and make informed decisions.
+Dataset
+The dataset contains transactional sales records with the following fields:
+ColumnDescriptionOrder DateDate the order was placedCustomer NameName of the customerStateLocation of the saleCategoryHigh-level product categorySub-CategoryDetailed product typeProduct NameName of the individual productSalesRevenue from the transactionQuantityNumber of units soldProfitProfit earned from the transaction
 
-## Screenshot
+Dashboard Components
+1. Sales by Category — Funnel Chart
+Visualizes how sales volume is distributed across product categories, ordered from highest to lowest. Useful for quickly identifying which categories are pulling the most weight and which are underperforming.
+2. Profit Over Time — Line Chart
+Tracks yearly profit trends to reveal long-term growth or decline patterns. Enables strategic reflection on what drove performance changes across different periods.
+3. Sales by State — Map Chart
+A geographic view of sales performance across U.S. states. Highlights regional strengths and flags areas where market penetration may be lacking.
+4. Customer Count — Bar Chart
+Displays the volume of customers served, broken down by a relevant dimension (category, region, or time). Supports customer segmentation and targeting analysis.
+5. Top 5 Customers by Profit — Pie Chart
+Spotlights the five customers who contributed the most profit. Knowing who your most valuable customers are is essential for relationship management and retention strategy.
+6. Monthly Sales Trends — Area Chart
+Shows how sales fluctuated month by month, with the filled area making it easy to perceive volume changes. Great for spotting seasonal peaks, slow periods, and planning campaigns accordingly.
 
-![Sales Dashboard](Dashboard.jpg)
+Tools & Technologies
 
-## Project Description
-
-Sales analysis is essential for understanding business performance, identifying trends, and making strategic decisions. This project leverages MS Excel to clean and pre-process sales data, analyze various metrics, and create a dynamic dashboard that visualizes key performance indicators (KPIs) such as sales trends, category performance, regional sales, top products, and profit margins.
-
-## Dataset
-
-The dataset used in this project includes the following headers:
-- **Order Date**
-- **Customer Name**
-- **State**
-- **Category**
-- **Sub-Category**
-- **Product Name**
-- **Sales**
-- **Quantity**
-- **Profit**
-
-## Dashboard Highlights
-
-1. **Sales by Category - Funnel Chart:**
-   - **Description**: This chart displays the distribution of sales across different product categories. The funnel shape helps in visualizing the sales volume for each category, narrowing down from the highest to the lowest.
-   - **Insight**: Identify which product categories generate the most sales and which ones lag behind, helping to focus on high-performing categories.
-
-2. **Profit Gained Over Years - Line Chart:**
-   - **Description**: This chart shows the trend of profit gained over the years. It provides a clear picture of how profits have evolved over time.
-   - **Insight**: Understand the long-term profitability trends, identify growth periods, and recognize any years with declining profits to make strategic decisions.
-
-3. **Sales by State - Map Chart:**
-   - **Description**: This geographical chart displays sales data by state, providing a visual representation of regional sales performance.
-   - **Insight**: Easily compare sales performance across different states, identifying high-performing regions and areas needing improvement.
-
-4. **Customer Count - Bar Chart:**
-   - **Description**: This bar chart represents the number of customers served. Each bar corresponds to a specific category, region, or period.
-   - **Insight**: Gain a clear understanding of customer distribution and count, which can be useful for market segmentation and targeting strategies.
-
-5. **Top 5 Customers Profit - Pie Chart:**
-   - **Description**: This pie chart highlights the top 5 customers based on profit generated. Each slice of the pie represents a customer's contribution to the total profit.
-   - **Insight**: Identify the most profitable customers, which can help in maintaining strong relationships with these key accounts and tailoring marketing efforts to them.
-
-6. **Monthly Sales - Area Chart:**
-   - **Description**: This area chart illustrates the sales trends on a monthly basis. The filled area under the line indicates the volume of sales each month.
-   - **Insight**: Observe seasonal trends, peak sales periods, and months with lower sales, which is valuable for inventory management, marketing campaigns, and sales forecasting.
+Microsoft Excel — data cleaning, transformation, pivot analysis, and dashboard visualizations
 
 
-## Tools Used
+How to Use
 
-- **Microsoft Excel:** For data cleaning, pre-processing, analysis, and visualization.
+Download the Excel file from this repository.
+Open it in Microsoft Excel (2016 or later recommended for full chart compatibility).
+Navigate to the Dashboard tab to explore the interactive visualizations.
+Use the slicers and filters to drill down into specific time periods, regions, or categories.
 
 
-## Usage
+Key Takeaways
+This project demonstrates practical skills in:
 
-To explore the sales dashboard and gain insights into sales performance:
+Data cleaning and preprocessing in Excel
+Building and formatting pivot tables
+Designing multi-chart dashboards with interactivity
+Translating raw transactional data into actionable business insights
 
-1. **Download the dataset:** Obtain the sales data used for this project.
-2. **Open the Excel file:** Open the provided Excel file to view the cleaned, pre-processed data and the dynamic dashboard.
-3. **Interact with the Dashboard:** Use the interactive features of the dashboard to filter and drill down into the data.
-
-## Conclusion
-
-This sales dashboard project demonstrates my proficiency in data analysis and visualization using MS Excel. It highlights my ability to clean, pre-process, analyze, and visualize data effectively, providing valuable insights into business performance.
-
-## Contact
-
-For any questions or further information, please contact me at [samlamba29@gmail.com](mailto:samlamba29@gmail.com).
+contact:upadhyedarshan394@gmail.com or ups5213@gmail.com
