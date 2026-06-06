@@ -1,4 +1,5 @@
-📊 Sales Performance Dashboard — Excel Analytics Project
+<h1>📊 Sales Performance Dashboard — Excel Analytics Project
+
 Overview
 This project presents an end-to-end data analytics workflow built entirely in Microsoft Excel — from raw data cleaning to an interactive, dynamic dashboard. The dashboard was designed to give business stakeholders a quick yet comprehensive view of sales performance, helping drive data-backed decisions.
 
