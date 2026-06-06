@@ -44,6 +44,6 @@ This project demonstrates practical skills in:
 Data cleaning and preprocessing in Excel
 Building and formatting pivot tables
 Designing multi-chart dashboards with interactivity
-Translating raw transactional data into actionable business insights
+Translating raw transactional data into actionable business insights.
 
-contact : upadhyedarshan394@gmail.com or ups5213@gmail.com
+Contact : upadhyedarshan394@gmail.com or ups5213@gmail.com
